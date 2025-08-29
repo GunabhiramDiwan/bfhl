@@ -1,0 +1,20 @@
+{
+  "name": "bfhl",
+  "version": "1.0.0",
+  "description": "BFHL API project for VIT - Roll Number: 22BCE9250",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Gunabhiram Diwan <gunabhiram.22bce9250@vitapstudent.ac.in>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "roll_number": "22BCE9250"
+}
